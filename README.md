@@ -75,7 +75,7 @@ It is working
 
 
 
-| Documentations              |                                               |
+| Documentation              |                                               |
 | ----------------- | ---------------------------------------------------------------- |
 | Fastify            |https://www.fastify.io/ecosystem/#Core%20Plugins|
 | Fastify Example    |https://github.com/fastify/fastify-cors|
